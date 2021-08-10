@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Censo 2021</string>
+    <string name="nombre">Apellido y Nombre</string>
+    <string name="tipoDocumento">Tipo De Documento:</string>
+    <string name="edad">Edad</string>
+    <string name="numeroDocumento">Número De Documento</string>
+    <string name="fechaNacimiento">Fecha De Nacimiento</string>
+    <string name="sexo">Sexo:</string>
+    <string name="direccion">Dirección</string>
+    <string name="telefono">Teléfono</string>
+    <string name="ocupacion">Ocupación</string>
+    <string name="ingresoMensual">Ingreso Económico Mensual</string>
+</resources>

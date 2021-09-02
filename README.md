@@ -1,6 +1,6 @@
 # Censo2021
 Aplicación móvil para Android desarrollada en el marco del bootcamp Android Kotlin que lleve a cabo en el año 2021. 
-Es aplicación destinada a llevar un registro y gestionar la información de las personas censadas en el marco de un censo nacional. La misma cuenta con las siguientes características:
+Esta aplicación está destinada a llevar un registro y gestionar la información de las personas censadas en el marco de un censo nacional. La misma cuenta con las siguientes características:
 - Al registrar las personas se toman los datos personales, la ocupación y el ingreso económico mensual.
 - La información de las personas se almacena en una base de datos local en el teléfono.
 - En la pantalla principal se muestran todas la personas censadas donde para ver la información de alguna en particular se pulsa sobre el recuadro del nombre de esa persona.
